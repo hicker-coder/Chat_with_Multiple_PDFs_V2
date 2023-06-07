@@ -3,7 +3,7 @@ PyPDF2
 python-dotenv
 streamlit
 openai
-faiss
+faiss_cpu
 
 # uncomment to use huggingface llms
 #huggingface-hub==0.14.1
