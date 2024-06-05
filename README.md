@@ -24,8 +24,8 @@ Chat with Your PDFs is a Streamlit-based web application that allows users to up
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/chat-with-your-pdfs.git
-    cd chat-with-your-pdfs
+    git clone https://github.com/hicker-coder/Chat_with_Multiple_PDFs_V2.git
+    cd Chat_with_Multiple_PDFs_V2
     ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
